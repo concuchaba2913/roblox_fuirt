@@ -1,0 +1,44 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/concuchaba2913/roblox_fuirt/refs/heads/main/script2.lua")))()
+
+       local Window = MakeWindow({
+         Hub = {
+         Title = "NguyenHoangDev ROBLOX",
+         Animation = "TIKTOK: @nguyenhoangdev"
+         },
+        Key = nguyenhoangdev {
+        KeySystem = true,
+        Title = "Key",
+        Description = "",
+        KeyLink = "guns.lol/hoanqdev",
+        Keys = {"nguyenhoangdev"},
+        Notifi = {
+        Notifications = true,
+        CorrectKey = "Running the Script...",
+       Incorrectkey = "The key is incorrect",
+       CopyKeyLink = "Copied to Clipboard"
+      }
+    }
+  })
+
+       MinimizeButton({
+       Image = "https://i.pinimg.com/1200x/fc/2b/e2/fc2be237ac0b7371bb4887fe81dba46d.jpg",
+       Size = {60, 60},
+       Color = Color3.fromRGB(10, 10, 10),
+       Corner = true,
+       Stroke = false,
+       StrokeColor = Color3.fromRGB(255, 0, 0)
+      })
+      
+------ Tab
+     local Tab1o = MakeTab({Name = "trang chủ"})
+     
+------- BUTTON
+    
+    AddButton(Tab1o, {
+     Name = "steal a brainrot",
+    Callback = function()
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DoliScriptz/loader/refs/heads/main/main.lua",true))()(Settings)
+  end
+  })
